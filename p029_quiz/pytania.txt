@@ -1,0 +1,18 @@
+Twoj ulubiony jezyk programowania to:
+a) Turbo Pascal
+b) C
+c) C++
+d) C#
+c
+W przyszlosci bedziesz sie uczyc:
+a) C++
+b) C#
+c) F#
+d) Python
+b
+Jakiego przedmiotu chcialbys/chcialabys sie uczyc:
+a) Fizyka
+b) Chemia
+c) Filozofia
+d) Matematyka
+a
