@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "p61_Dopelnienie_Liczby", "p61_Dopelnienie_Liczby.vcxproj", "{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Debug|x64.ActiveCfg = Debug|x64
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Debug|x64.Build.0 = Debug|x64
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Debug|x86.Build.0 = Debug|Win32
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Release|x64.ActiveCfg = Release|x64
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Release|x64.Build.0 = Release|x64
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Release|x86.ActiveCfg = Release|Win32
+		{DC13E0E6-C2ED-4D4C-A9B4-29B37A7ECD75}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A42CE77-1690-4AB6-8B39-81567DA1EC44}
+	EndGlobalSection
+EndGlobal
